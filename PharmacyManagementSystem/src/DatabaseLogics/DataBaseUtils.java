@@ -21,6 +21,7 @@ public abstract class DataBaseUtils {
     }
 
 //    public static Statement getStatement() {
+//     unused function 
 //        try {
 //            statement = getConnection().createStatement();
 //            statement = connection.createStatement();
